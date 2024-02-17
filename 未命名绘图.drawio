@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T07:54:37.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="kwk9oChbn4k3TByWGhl0" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T09:00:28.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tfus5u5msrY1Lj_qHyqK" version="23.1.5" type="github">
   <diagram name="第 1 页" id="oZufWF14YSuwaB8X_Ve1">
     <mxGraphModel dx="960" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,15 @@
             <mxPoint x="750" y="380" as="sourcePoint" />
             <mxPoint x="390" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KyCx07Zk0l7LQAFaLyhx-1" value="&lt;font face=&quot;宋体&quot;&gt;分子图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97.05" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KyCx07Zk0l7LQAFaLyhx-2" value="&lt;font face=&quot;宋体&quot;&gt;分子片段图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376" y="390" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KyCx07Zk0l7LQAFaLyhx-3" value="&lt;font face=&quot;宋体&quot;&gt;分子树&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
